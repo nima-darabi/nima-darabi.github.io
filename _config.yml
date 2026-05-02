@@ -16,8 +16,13 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+email: nima.darabi@etud.polymtl.ca
+linkedin_username: nima-darabi
+scholar_userid: QqCyy_EAAAAJ
+github_username: nimaaddarabi-ui
+twitter_username:
 url: https://nimaaddarabi-ui.github.io
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
