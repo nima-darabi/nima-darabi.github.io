@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nimaaddarabi-ui.github.io/al-folio/sitemap.xml
+Sitemap: https://nimaaddarabi-ui.github.io/sitemap.xml
