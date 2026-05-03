@@ -9,7 +9,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "nimaaddarabi-ui/nimaaddarabi-ui.github.io",
+    "data-repo": "nima-darabi/nimaaddarabi-ui.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
