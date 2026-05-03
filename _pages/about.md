@@ -6,7 +6,7 @@ subtitle: >
   PhD student · <a href='https://www.polymtl.ca/' target='_blank'>Polytechnique Montréal</a> · Transportation Engineering
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Montréal, QC, Canada</p>
